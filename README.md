@@ -1,7 +1,7 @@
 
 # Food-11 Image Classification
 
-This project is an image classification project of 16000+ food images consisting of 11 types of food. This project is used to complete the "Belajar Pengembangan Machine Learning" course on the Dicoding platform.
+This project is an image classification project of 16000+ food images consisting of 11 types of food. This project is used to complete the "Belajar Fundamental Deep Learning" course on the Dicoding platform.
 
 
 
